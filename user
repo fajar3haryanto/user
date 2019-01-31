@@ -11,7 +11,7 @@ $msgads=$putih."[$biru>$putih] Subscribe Channel YT Channel".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
 $st_dony=true;
-$yd_stat=false;
+$yd_stat=true;
 $vip1=false;
 $weblock=[""];
 $ydblock=[""];
@@ -19,11 +19,11 @@ $we_stat=true;
 $tt_stat=true;
 $stat_ads=true;
 $data= [
- //we
+//we
 'Muna Sosweety','Rully Efte','hamid Lilladh',
 
         ];
-$ydnews = ['tes','premium',];
+$ydnews = ['tes','eftechanel',];
 $watch = ['tes',];
 $veeu = ['tes',];
-$cword= ['tes','premium',];
+$cword= ['tes','eftechanel',];
