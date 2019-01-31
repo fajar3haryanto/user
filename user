@@ -1,15 +1,13 @@
 <?php
 echo $putih."[$red!$putih]$red Warning !!!".$t;
-echo $putih."[🇲🇨] Language Indonesia".$t;
 echo $putih."[•] Ini adalah program ilegal".$t;
 echo $putih."[•] Resiko sepenuhnya di tanggung pengguna".$t;
-echo $putih."[🇬🇧] Language English".$t;
 echo $putih."[•] This is an illegal program".$t;
 echo $putih."[•] Risk fully borne by the user".$t;
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red Channel Cocentz".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
-$msgads=$putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
+$msgads=$putih."[$biru>$putih] Subscribe Channel YT Channel".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
 $st_dony=true;
@@ -28,16 +26,8 @@ $data= [
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
-'Kolek Cau','Melin Syg','Channel Cocentz',
-//yg
-'Oblo Gaming2',
-//v
-'Ozil Oy','Alianz X Cybertz',
-//t
-'Cocentz','Hamzah Ismail','Kolek Cau','Ozil Oy','Sunda {G.R.T}',
         ];
 $ydnews = ['tes','premium',];
 $watch = ['tes',];
 $veeu = ['tes',];
 $cword= ['tes','premium',];
-$yogo=['tes','not for sale',];
