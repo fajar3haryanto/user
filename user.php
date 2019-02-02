@@ -18,11 +18,10 @@ $tt_stat=true;
 $stat_ads=true;
 $data= [
 //we
-'Muna Sosweety','Rully Efte','0',
+'Muna Sosweety','Rully Efte','dje four','0',
         '1','2','3','4','5','6',
 
         ];
 $ydnews = ['tes','eftechanel',];
 $watch = ['tes',];
-$veeu = ['tes',];
 $cword= ['tes','eftechanel',];
