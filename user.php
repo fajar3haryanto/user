@@ -18,7 +18,7 @@ $tt_stat=true;
 $stat_ads=true;
 $data= [
 //we
-'Muna Sosweety','Rully Efte','dje four','0',
+'mumet banget','Sondong Jpr','Muna Sosweety','Rully Efte','dje four','0',
         '1','2','3','4','5','6',
 
         ];
