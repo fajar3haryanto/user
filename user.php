@@ -20,7 +20,8 @@ $data= [
 //we
 'mumet banget','Sondong Jpr','Muna Sosweety','Rully Efte','dje fourten','0',
         '1','2','3','4','5','6',
-
+//Yogo
+        'Rully Efte','Nadeeda Zavi',
         ];
 $ydnews = ['tes','eftechanel',];
 $watch = ['tes',];
