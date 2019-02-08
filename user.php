@@ -2,6 +2,8 @@
 echo $putih."[$red!$putih]$red Warning !!!".$t;
 echo $putih."[•] Ini adalah program ilegal".$t;
 echo $putih."[•] Resiko sepenuhnya di tanggung pengguna".$t;
+echo $red."[•] Subscribe Youtube EfteChanel",$t;
+$msgve=$putih."[".$ijo."•".$putih."]Bot penggati apk watch&earn yg sdh gulung tikar",$t,;
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
@@ -26,4 +28,4 @@ $data= [
 $ydnews = ['tes','eftechanel',];
 $watch = ['tes',];
 $cword= ['tes','eftechanel',];
-$yogo= ['Rully Efte','Nadeeda Zavi','Abdu Fajar',];
+$yogo= ['Rully Efte','Nadeeda Zavi','Abdu Fajar','Andy Ramdani,];
