@@ -3,6 +3,7 @@ echo $putih."[$red!$putih]$red Warning !!!".$t;
 echo $putih."[•] Ini adalah program ilegal".$t;
 echo $putih."[•] Resiko sepenuhnya di tanggung pengguna".$t;
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
+$msgve=$putih."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
 $msgads=$putih."[$biru>$putih] Subscribe Channel YT EfteChannel".$t;
