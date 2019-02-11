@@ -22,7 +22,7 @@ $data= [
 'mumet banget','Sondong Jpr','Muna Sosweety','Rully Efte','dje fourten','0','Ahmad Sakhowi',
         '1','2','3','4','5','6',
  //ve
-        'Efte chanel',
+        'Efte chanel','Arya Sastra',
 //Yogo
         'Rully Efte','Nadeeda Zavi',
         ];
