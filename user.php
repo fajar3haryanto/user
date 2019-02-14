@@ -23,7 +23,7 @@ $data= [
         '1','2','3','4','5','6',
  //ve
         'Efte chanel','Arya Sastra','Hoa Hunh','pletet aku','Si Montok','Nyoman Jobla','jogi laguna','Dipa Putra',
-        'Dicky Sugara','kentuq kentuq',
+        'Dicky Sugara','kentuq kentuq','Abimanyu',
 //Yogo
         'Rully Efte','Nadeeda Zavi',
         ];
