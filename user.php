@@ -20,18 +20,19 @@ $stat_ads=true;
 $data= [
 //we
 'mumet banget','Sondong Jpr','Muna Sosweety','Rully Efte','dje fourten','0','Ahmad Sakhowi','Hardian E.C',
-        '1','2','3','4','5','6',
+        '1','2','3','4','5','6','7','8','9',
+        '1','2','3','4','5','6','7','8','9',
  //ve
         'Efte chanel','Arya Sastra','Hoa Hunh','pletet aku','Si Montok','Nyoman Jobla','jogi laguna','Dipa Putra',
         'Dicky Sugara','kentuq kentuq','Abimanyu','Bilza G','ladang','iwanfsc','Aziz Cahyo','Kurniawan Zaty','Vijay Kumar',
         'Job Padilla','Taufik','Susi Shine',
 //Yogo
-        'Rully Efte','Nadeeda Zavi',
+        'Rully Efte','1',
         ];
 $ydnews = ['Rully Efte','Muna Sosweety',];
 $watch = ['tes',];
 $cword= ['tes','eftechanel',];
-$yogo= ['Rully Efte','Nadeeda Zavi','Abdu Fajar','mizan bagustian','Andy Ramdani',
+$yogo= ['Rully Efte','Abdu Fajar','mizan bagustian','Andy Ramdani',
        'Arin Arin','Yahya Hasan','Nade Eda','Rakha nurraffa','Htin Htin','Zulfikar Azaria','Dicky Sugara',
         'YLKO YLKO','Janu Febrian','Syed Moiz Uddin Ahmed','Eka Wildan Fauzi','UM CADIN DE TUDO',
        ];
