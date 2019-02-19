@@ -25,7 +25,7 @@ $data= [
  //ve
         'Efte chanel','Arya Sastra','Hoa Hunh','pletet aku','Si Montok','Nyoman Jobla','jogi laguna','Dipa Putra',
         'Dicky Sugara','kentuq kentuq','Abimanyu','Bilza G','ladang','iwanfsc','Aziz Cahyo','Kurniawan Zaty','Vijay Kumar',
-        'Job Padilla','Taufik','Susi Shine',
+        'Job Padilla','Taufik','Susi Shine','Windi Rachmat',
 //Yogo
         'Rully Efte','1',
         ];
