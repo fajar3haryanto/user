@@ -29,7 +29,7 @@ $data= [
 //Yogo
         'Rully Efte','1',
         ];
-$ydnews = ['Rully Efte','Muna Sosweety',];
+$ydnews = ['Rully Efte',];
 $watch = ['tes',];
 $cword= ['tes','eftechanel',];
 $yogo= ['Rully Efte','Abdu Fajar','mizan bagustian','Andy Ramdani',
