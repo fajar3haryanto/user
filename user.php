@@ -32,7 +32,5 @@ $data= [
 $ydnews = ['Rully Efte',];
 $watch = ['tes',];
 $cword= ['tes','eftechanel',];
-$yogo= ['Rully Efte','Abdu Fajar','mizan bagustian','Andy Ramdani',
-       'Arin Arin','Yahya Hasan','Nade Eda','Rakha nurraffa','Htin Htin','Zulfikar Azaria','Dicky Sugara',
-        'YLKO YLKO','Janu Febrian','Syed Moiz Uddin Ahmed','Eka Wildan Fauzi','UM CADIN DE TUDO',
+$yogo= ['Rully Efte',
        ];
