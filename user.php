@@ -6,6 +6,7 @@ $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$put
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Tool Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
+$msgfv=$putih."[*]$ijo Subscribe official Channel YT $red Efte Channel".$t;
 $msgads=$putih."[$biru>$putih] Subscribe Channel YT EfteChannel".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
