@@ -33,5 +33,5 @@ $data= [
 $ydnews = ['Rully Efte',];
 $watch = ['tes',];
 $cword= ['tes','eftechanel',];
-$yogo= ['Rully Efte',
-       ];
+$yogo= ['Rully Efte',];
+$vefun= ['Rully Efte',];
