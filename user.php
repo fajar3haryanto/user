@@ -28,7 +28,7 @@ $data= [
         'Dicky Sugara','kentuq kentuq','Abimanyu','Bilza G','ladang','iwanfsc','Aziz Cahyo','Kurniawan Zaty','Vijay Kumar',
         'Job Padilla','Black Shark','Taufik','Susi Shine','Windii Rachmat','black shark','novan fardiansah',
  //vf 
-        'Nade Eda','Kaivan','Udin Cybernet','adipta apriyanto','Adipta Apriyanto','Rian 26',
+        'Nade Eda','Kaivan','Udin Cybernet','adipta apriyanto','Adipta Apriyanto','Rian 26','Rudi Wahyudi',
 //Yogo
         'Rully Efte','1',
         ];
