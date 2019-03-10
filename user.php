@@ -29,7 +29,7 @@ $data= [
         'Job Padilla','Black Shark','Taufik','Susi Shine','Windii Rachmat','black shark','novan fardiansah','Tobing Cuy',
  //vf; 
         'Nade Eda','Kaivan','Udin Cybernet','adipta apriyanto','Adipta Apriyanto','Rian 26','Rudi Wahyudi','Neni','ijah umel',
-        'Awashir Hammad','Ovay Waelah','Nury Waelah'.'muhammad hilmi husaini',
+        'Awashir Hammad','Ovay Waelah','Nury Waelah'.'muhammad hilmi husaini','youtube indo',
 //Yogo
         'Rully Efte','1',
         ];
