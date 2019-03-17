@@ -2,12 +2,14 @@
 echo $putih."[$red!$putih]$red Warning !!!".$t;
 echo $putih."[ID] Ini adalah program ilegal".$t;
 echo $putih."[ID] Resiko sepenuhnya di tanggung pengguna".$t;
-$msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
+echo $putih."[ENG] Ini adalah program ilegal".$t;
+echo $putih."[ENG] Resiko sepenuhnya di tanggung pengguna".$t;
+$msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red F3H OFFICIAL".$t;
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Tool Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
-$msgfv=$putih."[*]$ijo Subscribe official Channel YT $red Efte Channel".$t;
-$msgads=$putih."[$biruEN$putih] Subscribe Channel YT EfteChannel".$t;
+$msgfv=$putih."[*]$ijo Subscribe official Channel YT $red F3H OFFICIAL".$t;
+$msgads=$putih."[$biru>putih] Subscribe Channel YT F3H OFFICIAL".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
 $st_dony=true;
