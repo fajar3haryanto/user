@@ -1,13 +1,13 @@
 <?php
 echo $putih."[$red!$putih]$red Warning !!!".$t;
-echo $putih."[•] Ini adalah program ilegal".$t;
-echo $putih."[•] Resiko sepenuhnya di tanggung pengguna".$t;
+echo $putih."[ID] Ini adalah program ilegal".$t;
+echo $putih."[ID] Resiko sepenuhnya di tanggung pengguna".$t;
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Tool Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
 $msgfv=$putih."[*]$ijo Subscribe official Channel YT $red Efte Channel".$t;
-$msgads=$putih."[$biru>$putih] Subscribe Channel YT EfteChannel".$t;
+$msgads=$putih."[$biruEN$putih] Subscribe Channel YT EfteChannel".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
 $st_dony=true;
