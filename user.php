@@ -1,15 +1,15 @@
 <?php
 echo $putih."[$red!$putih]$red Warning !!!".$t;
-echo $putih."[$red ID $putih] Ini adalah program ilegal".$t;
-echo $putih."[$redID$putih] Resiko sepenuhnya di tanggung pengguna".$t;
-echo $putih."[$biruENG$putih] This is an illegal program".$t;
-echo $putih."[$biruENG$putih] The risk is borne entirely by the user".$t;
-$msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red F3H OFFICIAL".$t;
+echo $putih."[$red-$putih] Ini adalah program ilegal".$t;
+echo $putih."[$red-$putih] Resiko sepenuhnya di tanggung pengguna".$t;
+echo $putih."[$biru-$putih] This is an illegal program".$t;
+echo $putih."[$biru-$putih] The risk is borne entirely by the user".$t;
+$msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red YouTube$putih :$red F3H OFFICIAL".$t;
 $msgve=$red."[•] Apk new pengganti Watch & earn".$t;
 $msgyd=$putih."[$red!$putih] Tool Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
 $msgfv=$putih."[*]$ijo Subscribe official Channel YouTube $red F3H OFFICIAL".$t;
-$msgads=$putih."[$red>>>$putih]$ijo Subscribe Channel YouTube F3H OFFICIAL".$t;
+$msgads=$putih."[$red>>>$putih]$kuning Subscribe Channel YouTube F3H OFFICIAL".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
 $st_dony=true;
